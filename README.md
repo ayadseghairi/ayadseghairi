@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayad Seghiri</h1>
 <h3 align="center">A developer from algeria 🇩🇿</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayadseghairi" alt="ayadseghairi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayadseghiri" alt="ayadseghiri" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ayadseghairi" target="blank"><img src="https://img.shields.io/twitter/follow/ayadseghairi?logo=twitter&style=for-the-badge" alt="ayadseghairi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayadseghairi" target="blank"><img src="https://img.shields.io/twitter/follow/ayadseghairi?logo=twitter&style=for-the-badge" alt="ayadseghiri" /></a> </p>
 
 - 🌱 I’m currently learning **machine Learning**
 
