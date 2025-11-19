@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **machine Learning**
 
-- 👨‍💻 All of my projects are available at [http://ayadseghiri.me/](http://ayadseghiri.me/)
+- 👨‍💻 All of my projects are available at [https://ayadseghairi.github.io](https://ayadseghairi.github.io)
 
 - 💬 Ask me about **Linux 🐧 , Python 🐍 , C/C++ 🇨**
 
