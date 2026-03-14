@@ -26,7 +26,7 @@ Available for freelance work.
 | [tornet](https://github.com/ayadseghairi/tornet) | Automates IP rotation via Tor — published on [PyPI](https://pypi.org/project/python-tornet/) | Python |
 | [Diabetes & Heart Check](https://github.com/ayadseghairi/Diabetes-and-heart-check) | AI diagnostic tool for health risk assessment | Python, ML |
 | [Encrypted Chat Room](https://github.com/ayadseghairi/Encrypted-chat-room) | End-to-end encrypted real-time chat | Python |
-
+| [quiz-platform](https://github.com/ayadseghairi/quiz-platform) | Real-time Arabic quiz platform — Flask, React, Socket.IO | Python, React |
 
 ---
 
