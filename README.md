@@ -1,7 +1,7 @@
 # Ayad Seghiri
 
 **Full-Stack Developer · Open Source Contributor · Security-Oriented Engineer**  
-📍 Khenchela, Algeria &nbsp;|&nbsp; 📫 seghiri.ayad@univ-khenchela.dz &nbsp;|&nbsp; 🌐 [ayadseghairi.github.io](https://ayadseghairi.github.io)
+📍 Khenchela, Algeria &nbsp;|&nbsp; 📫 seghiri.ayad@univ-khenchela.dz &nbsp;|&nbsp; 🌐 [ayadseghiri.dev](https://ayadseghiri.dev)
 
 ---
 
